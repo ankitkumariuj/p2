@@ -29,7 +29,7 @@ cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     height: 7vw;
         padding: 0px 103px;
 }
