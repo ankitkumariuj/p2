@@ -32,7 +32,7 @@ cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     height: 7vw;
         padding: 0px 103px;
 }
@@ -84,7 +84,7 @@ cursor: pointer;
     height: 42vw;
     width: 100%;
     overflow: hidden;
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     padding: 0px 103px;
 }
 .inner-section{ 
@@ -336,7 +336,7 @@ border-bottom-color: var(--primary-color);
 /*why choose us*/
 
 .why-chooseus{
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     color: white;
     display: flex;
     flex-direction: row-reverse;
@@ -668,7 +668,7 @@ border-bottom-color: var(--primary-color);
 /*footer*/
 
 .footer_inner{
-  background-image: url("image/home-banner-bg-image.jpg");
+  background-image: url("home-banner-bg-image.jpg");
  
   background-repeat: no-repeat;
 
@@ -745,7 +745,7 @@ border-bottom-color: var(--primary-color);
     display: flex;
     justify-content: center;
     align-items: end;
-    background: url("image/home-banner-bg-image.jpg");
+    background: url("home-banner-bg-image.jpg");
    
 }
 .footer .copyright p{
@@ -800,7 +800,7 @@ border-bottom-color: var(--primary-color);
         justify-content: space-between;
         padding: 10px 12px 0px 12px;
         align-items: center;
-         background-image: url("/image/home-banner-bg-image.jpg");
+         background-image: url("/home-banner-bg-image.jpg");
     }
 
 
