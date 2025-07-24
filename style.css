@@ -667,8 +667,10 @@ border-bottom-color: var(--primary-color);
 
 /*footer*/
 
+
 .footer_inner{
-  background-image: url("home-banner-bg-image.jpg");
+  background-image: url("image/home-banner-bg-image.jpg");
+  background-size: cover;
  
   background-repeat: no-repeat;
 
@@ -682,7 +684,7 @@ border-bottom-color: var(--primary-color);
   align-items: center;
 
   color: white;
-  padding: 20px 23px; /* Adjust as needed */
+  padding: 20px 58px; /* Adjust as needed */
   box-sizing: border-box;
 }
 
@@ -745,7 +747,7 @@ border-bottom-color: var(--primary-color);
     display: flex;
     justify-content: center;
     align-items: end;
-    background: url("home-banner-bg-image.jpg");
+    background: url("image/home-banner-bg-image.jpg");
    
 }
 .footer .copyright p{
@@ -754,6 +756,7 @@ border-bottom-color: var(--primary-color);
     margin-bottom: 23px;
     padding-top: 14px;
 }
+
 
 @media screen and (max-width:768px) {
    
