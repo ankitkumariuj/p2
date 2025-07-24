@@ -76,7 +76,7 @@ cursor: pointer;
 } 
 
 .About{
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     overflow: hidden;
     color: white;
     justify-content: center;
