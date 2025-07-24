@@ -33,7 +33,7 @@ cursor: pointer;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     height: 7vw;
         padding: 0px 103px;
 }
@@ -80,7 +80,7 @@ cursor: pointer;
 }
 
 .Contact{
-    background-image: url("image/home-banner-bg-image.jpg");
+    background-image: url("home-banner-bg-image.jpg");
     overflow: hidden;
     color: white;
     justify-content: center;
@@ -240,7 +240,7 @@ cursor: pointer;
 /*footer*/
 
 .footer_inner{
-  background-image: url("image/home-banner-bg-image.jpg");
+  background-image: url("home-banner-bg-image.jpg");
   background-size: cover;
  
   background-repeat: no-repeat;
@@ -318,7 +318,7 @@ cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: end;
-    background: url("image/home-banner-bg-image.jpg");
+    background: url("home-banner-bg-image.jpg");
    
 }
 .footer .copyright p{
@@ -393,7 +393,7 @@ cursor: pointer;
         justify-content: space-between;
         padding: 10px 12px 0px 12px;
         align-items: center;
-         background-image: url("/image/home-banner-bg-image.jpg");
+         background-image: url("/home-banner-bg-image.jpg");
     }
     .mobile img{
        display: flex
